@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "VerificacaoChequeEspecial",
+            "request": "launch",
+            "mainClass": "VerificacaoChequeEspecial",
+            "projectName": "desafios-de-codigo-gft-1_cff62955"
+        },
+        {
+            "type": "java",
+            "name": "VerificadorElegibilidadeConta",
+            "request": "launch",
+            "mainClass": "VerificadorElegibilidadeConta",
+            "projectName": "desafios-de-codigo-gft-1_cff62955"
+        },
+        {
+            "type": "java",
             "name": "VerificadorNumeroConta",
             "request": "launch",
             "mainClass": "VerificadorNumeroConta",
