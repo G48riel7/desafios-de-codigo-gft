@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "VerificadorNumeroConta",
+            "request": "launch",
+            "mainClass": "VerificadorNumeroConta",
+            "projectName": "desafios-de-codigo-gft-1_cff62955"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
